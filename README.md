@@ -2,9 +2,7 @@
 # Name - Ayush Khamar
 # ID - 202001156
 
-**Objective**: _JUnit Testing in Eclipse_
 
----
 
 ## Creating Java Package and Boa Class
 
